@@ -92,3 +92,4 @@ firstItem.likes = firstItem.likes + 1;
 // `
 
 // console.log("funny string", myString4)
+
